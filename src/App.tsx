@@ -5,6 +5,7 @@ function App() {
     <div>
           <div>App</div>
           <div>Dev branch commit1</div>
+          <div>Dev branch commit2</div>
     </div>
   );
 }
