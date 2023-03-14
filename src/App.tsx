@@ -23,6 +23,7 @@ const sum = (a: number, b: number) => {
           <p>12</p>
           <p>13</p>
           <p>2</p>
+          <p>3</p>
     </div>
   );
 }
