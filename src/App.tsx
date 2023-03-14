@@ -1,6 +1,13 @@
 import React from 'react';
 import './App.css';
 function App() {
+
+
+    // add sum
+const sum = (a: number, b: number) => {
+        return a + b
+    }
+
   return (
     <div>
           <div>App</div>
@@ -15,6 +22,7 @@ function App() {
           <p>11</p>
           <p>12</p>
           <p>13</p>
+          <p>2</p>
     </div>
   );
 }
